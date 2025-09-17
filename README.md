@@ -7,12 +7,12 @@ Myanmar NRC Format [State Number]\[District]([NAING])[Register No] using Unicode
 
 `[State Number]\[District]([NAING/N])[Register No]`
 
-- `12/OKM(N)123456`
-- `12/OUKAMA(N)123456`
-- `12/OKM(NAING)123456`
+- `14/PaTaNa(N)250183`
+- `14/PaTaNa(N)123456`
+- `12/PTN(NAING)123456`
 
 Prefer formats
-- `12/OUKAMA(N)123456`
+- `14/OUKAMA(N)123456`
 - `12/OUKAMA(NAING)123456`
 - `၁၂/ဥကမ(နိုင်)၁၂၃၄၅၆`
 
@@ -65,5 +65,6 @@ if(checknrc("၁၂/ဥကမ(န)၀၂၃၄၅၆")) console.log('myanmar nrc
 
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!
+
 
 [![Beerpay](https://beerpay.io/yeyintkoko/myanmar-nrc-x/badge.svg?style=beer-square)](https://beerpay.io/yeyintkoko/myanmar-nrc-x)  [![Beerpay](https://beerpay.io/yeyintkoko/myanmar-nrc-x/make-wish.svg?style=flat-square)](https://beerpay.io/yeyintkoko/myanmar-nrc-x?focus=wish)
